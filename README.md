@@ -1,1 +1,1 @@
-# math-for-machine-learning
+# essential-math-for-machine-learning
